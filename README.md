@@ -1,0 +1,2 @@
+# practice
+setting up git
